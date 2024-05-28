@@ -27,19 +27,19 @@ body {
 .section-title{
     font-family: Calistoga, cursive;
 }
-#Sobre-o-zoológico, #cardapio{
+#Sobre-o-zoológico, #Animais{
     background-color: #e7f1d9;
 }
 .text-colored{
     color:rgb(14, 88, 42)
 }
 
-.nav-cardapio .nav-link.active,
+.nav-Animais.nav-link.active,
 #fale-conosco button {
     background-color: rgb(14, 88, 42);
     color: #fff;
 }
-.nav-cardapio .nav-link:hover{
+.nav-Animais .nav-link:hover{
     color:rgb(14, 88, 42) ;
 
 }
