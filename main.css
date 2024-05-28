@@ -1,0 +1,59 @@
+
+body {
+    font-family: robotp, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(5, 75, 5);
+}
+.nav .nav-link.active {
+    background-color: #fff;
+    color:rgb(14, 88, 42)
+
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-brand{
+    font-family: Calistoga, cursive;
+}
+.navbar-toggler {
+    background-color: #fff;
+}
+.section-title{
+    font-family: Calistoga, cursive;
+}
+#Sobre-o-zoológico, #cardapio{
+    background-color: #e7f1d9;
+}
+.text-colored{
+    color:rgb(14, 88, 42)
+}
+
+.nav-cardapio .nav-link.active,
+#fale-conosco button {
+    background-color: rgb(14, 88, 42);
+    color: #fff;
+}
+.nav-cardapio .nav-link:hover{
+    color:rgb(14, 88, 42) ;
+
+}
+.social-links li {
+    list-style: none;
+    display: inline;
+   
+}
+.social-links a {
+    text-decoration: none;
+}
+
+@media (max-width: 767px) {
+   .carousel-item img{
+    height: 280px;
+   }
+}
